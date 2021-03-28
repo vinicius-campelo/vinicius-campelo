@@ -15,14 +15,12 @@
 ![202809-128](https://user-images.githubusercontent.com/74797865/112766582-d691dc00-8fe8-11eb-991f-3afeef01ea89.png)
 
 
-| CURSOS                                                                              |
-|-------------------------------------------------------------------------------------|
-| PL/SQL curso realizado pelo PRODASEN e SQL Server Curso realizado pela SoftBlue.    |
-| Desenvolvimento SPA / Angular – Desenvolvedor.io                                    |
-| Lógica Orientada a Objetos e Java, curso realizado pela X25 DF.                     |
-| UML, curso realizado pelo UNICEUB.                                                  |
-| Lógica de programação SENAI - DF.                                                   | 
-
+## Courses
+- PL/SQL curso realizado pelo PRODASEN e SQL Server Curso realizado pela SoftBlue.    
+- Desenvolvimento SPA / Angular – Desenvolvedor.io                                    
+- Lógica Orientada a Objetos e Java, curso realizado pela X25 DF.                     
+- UML, curso realizado pelo UNICEUB.                                                  
+- Lógica de programação SENAI - DF.                                                    
 
 
 ## About me 
