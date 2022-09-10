@@ -29,8 +29,7 @@
 ## Stats
 ![Vinicius Campelo GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-campelo&show_icons=true&theme=radical)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-campelo&layout=compact)](https://github.com/vinicius-campelo/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-campelo&theme=tokyonight)
 
 ## About me 
 ![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https://github.com/vinicius-campelo)
