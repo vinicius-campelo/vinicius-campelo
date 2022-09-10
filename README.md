@@ -15,19 +15,26 @@
 ![202809-128](https://user-images.githubusercontent.com/74797865/112766582-d691dc00-8fe8-11eb-991f-3afeef01ea89.png)
 
 
+
 ## Courses
 - PL/SQL curso realizado pelo PRODASEN e SQL Server Curso realizado pela SoftBlue.    
 - Desenvolvimento SPA / Angular – Desenvolvedor.io                                    
 - Lógica Orientada a Objetos e Java, curso realizado pela X25 DF.                     
 - UML, curso realizado pelo UNICEUB.                                                  
-- Lógica de programação SENAI - DF.                                                    
+- Lógica de programação SENAI - DF.
+
+## Stats
+![Vinicius Campelo GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-campelo&show_icons=true&theme=radical)
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-campelo&layout=compact)](https://github.com/vinicius-campelo/github-readme-stats)
 
 
 ## About me 
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinicius-campelo)
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)
-![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+61+991759170&text=ola!)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:autanbr@gmail.com)
+![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https://github.com/vinicius-campelo)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/feed/)
+![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+61+98035237&text=Ola!)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:autanbr@gmail.com)
+![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&link=https://www.udemy.com/user/5692d86b-a52a-4fcf-ad7c-419f531b46c4/)
  
 
 <!---
