@@ -17,7 +17,7 @@
 
 
 ## Courses
-- PL/SQL curso realizado pelo PRODASEN e SQL Server Curso realizado pela SoftBlue.    
+- PL/SQL curso realizado pelo PRODASEN e SQL Server Curso realizado pela SoftBlue - [Link](https://github.com/vinicius-campelo/docs-tecnicos/blob/main/0404522CE051.pdf).    
 - Desenvolvimento SPA / Angular – Desenvolvedor.io                                    
 - Lógica Orientada a Objetos e Java, curso realizado pela X25 DF.                     
 - UML, curso realizado pelo UNICEUB.                                                  
