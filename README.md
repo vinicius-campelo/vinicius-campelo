@@ -22,6 +22,7 @@
 - Lógica Orientada a Objetos e Java, curso realizado pela X25 DF.                     
 - UML, curso realizado pelo UNICEUB.                                                  
 - Lógica de programação SENAI - DF.
+- Introduction to Cybersecurity - Cisco [Link](https://github.com/vinicius-campelo/docs-tecnicos/blob/main/cisco.pdf)
 - DevOps Essentials - [Link](https://aia.4linux.com.br/admin/tool/certificate/view.php?code=6248284848VM)
 - Configuração e Deploy na nuvem Microsoft Azure Cloud - [Link](https://certificates.digitalinnovation.one/A232720A)
 - Introdução a Microsserviços com .net - [Link](https://certificates.digitalinnovation.one/AAC50B57)
