@@ -26,7 +26,9 @@
 - Configuração e Deploy na nuvem Microsoft Azure Cloud - [Link](https://certificates.digitalinnovation.one/A232720A)
 - Introdução a Microsserviços com .net - [Link](https://certificates.digitalinnovation.one/AAC50B57)
 - Praticas DevOps IETEC - [Link](https://github.com/vinicius-campelo/docs-tecnicos/blob/main/Clique_aqui_para_emitir_o_seu_certificado.pdf)
-- PHP RL System Treinamentos [Link](https://github.com/vinicius-campelo/docs-tecnicos/blob/main/certficados_php.pdf)
+- PHP RL System Treinamentos - [Link](https://github.com/vinicius-campelo/docs-tecnicos/blob/main/certficados_php.pdf)
+- Intro ao Entity Framework Core Desenvolvedor.io - [Link](https://desenvolvedor.io/certificado/f5991e10-bdb8-4d50-849a-cc117cb928ca)
+- Iniciando com ASP.NET Core Desenvolvedor.io - [Link](https://desenvolvedor.io/certificado/d9398b45-5e42-41a7-8a96-07223cff1cf7)
 
 ## Stats
 ![Vinicius Campelo GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-campelo&show_icons=true&theme=radical)
