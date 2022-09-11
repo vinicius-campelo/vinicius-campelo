@@ -25,7 +25,7 @@
 - DevOps Essentials - [Link](https://aia.4linux.com.br/admin/tool/certificate/view.php?code=6248284848VM)
 - Configuração e Deploy na nuvem Microsoft Azure Cloud - [Link](https://certificates.digitalinnovation.one/A232720A)
 - Introdução a Microsserviços com .net - [Link](https://certificates.digitalinnovation.one/AAC50B57)
-- Praticas DevOps IETEC - [Link](https://virtual.ietec.com.br/mod/certificate/view.php?id=49000&action=get)
+- Praticas DevOps IETEC - [Link](https://github.com/vinicius-campelo/docs-tecnicos/blob/main/Clique_aqui_para_emitir_o_seu_certificado.pdf)
 
 ## Stats
 ![Vinicius Campelo GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-campelo&show_icons=true&theme=radical)
