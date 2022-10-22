@@ -9,7 +9,7 @@
 ---
 
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ?identity__email=autanbr%40gmail.com"><img width="200px" height="200px" src="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ/image"></a><a href="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ?identity__email=autanbr%40gmail.com"><img width="200px" height="200px" src="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ/image"></a><a href="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA?identity__email=autanbr%40gmail.com"><img width="200px" height="200px" src="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA/image"></a></blockquote>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ/image"></a><a href="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ/image"></a><a href="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA/image"></a></blockquote>
 
 
 ---
