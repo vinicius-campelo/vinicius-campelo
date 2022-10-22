@@ -7,6 +7,12 @@
 - 📫 How to find me? simple! send an email to autanbr@gmail.com.
 
 
+
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;><a href="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ?identity__email=autanbr%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Jornada DevOps de Elite - Docker</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>20 de out. de 2022</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Vinicius Miranda Campelo</span></p><p style="margin: 16px 0; padding: 0;"></p></blockquote>
+
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ?identity__email=autanbr%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Jornada DevOps de Elite - Kubernetes</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>20 de out. de 2022</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Vinicius Miranda Campelo</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
+
+---
 ## Technologies I'm working on and studying
 ![iconfinder_Visual_Studio_2012_98775](https://user-images.githubusercontent.com/74797865/112765408-6e8cc700-8fe3-11eb-8e00-09ee961521c0.png)
 ![iconfinder_Java_98329](https://user-images.githubusercontent.com/74797865/112765799-3be3ce00-8fe5-11eb-845d-281e808c5dd3.png)
@@ -14,7 +20,7 @@
 ![532716-128](https://user-images.githubusercontent.com/74797865/112766178-f2947e00-8fe6-11eb-8e5a-1384059cdf7c.png)
 ![202809-128](https://user-images.githubusercontent.com/74797865/112766582-d691dc00-8fe8-11eb-991f-3afeef01ea89.png)
 
-
+---
 
 ## Courses
 - PL/SQL curso realizado pelo PRODASEN e SQL Server Curso realizado pela SoftBlue - [Link](https://github.com/vinicius-campelo/docs-tecnicos/blob/main/0404522CE051.pdf).    
@@ -31,11 +37,13 @@
 - Intro ao Entity Framework Core Desenvolvedor.io - [Link](https://desenvolvedor.io/certificado/f5991e10-bdb8-4d50-849a-cc117cb928ca)
 - Iniciando com ASP.NET Core Desenvolvedor.io - [Link](https://desenvolvedor.io/certificado/d9398b45-5e42-41a7-8a96-07223cff1cf7)
 
+---
 ## Stats
 ![Vinicius Campelo GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-campelo&show_icons=true&theme=radical)
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-campelo&theme=tokyonight)
 
+---
 ## About me 
 ![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https://github.com/vinicius-campelo)
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/feed/)
