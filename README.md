@@ -22,7 +22,6 @@
 ![532716-128](https://user-images.githubusercontent.com/74797865/112766178-f2947e00-8fe6-11eb-8e5a-1384059cdf7c.png)
 ![202809-128](https://user-images.githubusercontent.com/74797865/112766582-d691dc00-8fe8-11eb-991f-3afeef01ea89.png)
 
----
 
 ## Courses
 
