@@ -1,10 +1,4 @@
 
-<div id="header" align="center">
-  <img width="250px" height="100px" src="https://github.com/vinicius-campelo/docs-tecnicos/blob/main/bHA8KE7.gif" />
-</div>
-
-  
-
 ### WELCOME!
 
 - 👋 Hi, I’m @vinicius-campelo
