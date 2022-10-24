@@ -7,12 +7,14 @@
 - 📫 How to find me? simple! send an email to autanbr@gmail.com.
 
 ---
+## About me 
+![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https://github.com/vinicius-campelo)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/feed/)
+![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+61+98035237&text=Ola!)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:autanbr@gmail.com)
+![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&link=https://www.udemy.com/user/5692d86b-a52a-4fcf-ad7c-419f531b46c4/)
 
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ/image"></a><a href="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ/image"></a><a href="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA/image"></a></blockquote>
-
-
----
 ## Technologies I'm working on and studying
 ![iconfinder_Visual_Studio_2012_98775](https://user-images.githubusercontent.com/74797865/112765408-6e8cc700-8fe3-11eb-8e00-09ee961521c0.png)
 ![iconfinder_Java_98329](https://user-images.githubusercontent.com/74797865/112765799-3be3ce00-8fe5-11eb-845d-281e808c5dd3.png)
@@ -23,6 +25,11 @@
 ---
 
 ## Courses
+
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ/image"></a><a href="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ/image"></a><a href="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA/image"></a><a href="https://api.badgr.io/public/assertions/sy3UiXgTTP222_UbRa55Xw?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/sy3UiXgTTP222_UbRa55Xw/image"></a><a href="https://api.badgr.io/public/assertions/fF4AByreSSa_e6brB6tuNA?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/fF4AByreSSa_e6brB6tuNA/image"></a></blockquote>
+
+
+
 - PL/SQL curso realizado pelo PRODASEN e SQL Server Curso realizado pela SoftBlue - [Link](https://github.com/vinicius-campelo/docs-tecnicos/blob/main/0404522CE051.pdf).    
 - Desenvolvimento SPA / Angular – Desenvolvedor.io                                    
 - Lógica Orientada a Objetos e Java, curso realizado pela X25 DF.                     
@@ -42,14 +49,6 @@
 ![Vinicius Campelo GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-campelo&show_icons=true&theme=radical)
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-campelo&theme=tokyonight)
-
----
-## About me 
-![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https://github.com/vinicius-campelo)
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/feed/)
-![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+61+98035237&text=Ola!)
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:autanbr@gmail.com)
-![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&link=https://www.udemy.com/user/5692d86b-a52a-4fcf-ad7c-419f531b46c4/)
 
 
 <!---
