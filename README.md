@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img width="250px" height="100px" src="https://github.com/vinicius-campelo/docs-tecnicos/blob/main/bHA8KE7.gif" />
 </div>
 
   
