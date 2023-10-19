@@ -25,9 +25,7 @@
 ![202809-128](https://user-images.githubusercontent.com/74797865/112766582-d691dc00-8fe8-11eb-991f-3afeef01ea89.png)
 
 
-## Courses
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/kSISE7h2RkW3YWDE-0KdpQ/image"></a><a href="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/tgIHfUS5QbOaDS-5h7GuHQ/image"></a><a href="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/FGt135QfRJOtBEn3Hz5dhA/image"></a><a href="https://api.badgr.io/public/assertions/sy3UiXgTTP222_UbRa55Xw?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/sy3UiXgTTP222_UbRa55Xw/image"></a><a href="https://api.badgr.io/public/assertions/fF4AByreSSa_e6brB6tuNA?identity__email=autanbr%40gmail.com"><img width="150px" height="150px" src="https://api.badgr.io/public/assertions/fF4AByreSSa_e6brB6tuNA/image"></a></blockquote>
 
 
 
