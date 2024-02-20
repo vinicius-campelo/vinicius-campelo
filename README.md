@@ -11,7 +11,7 @@
 ## About me 
 ![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https://vinicius-campelo.github.io)
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/feed/)
-![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+61+98035237&text=Ola!)
+![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5561998035237?text=Ola!)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:autanbr@gmail.com)
 ![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&link=https://www.udemy.com/user/5692d86b-a52a-4fcf-ad7c-419f531b46c4/)
 <img width="120px" height="28px" src="https://komarev.com/ghpvc/?username=vinicius-campelo&style=flat-square&color=blue" alt=""/>
