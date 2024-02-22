@@ -6,6 +6,7 @@
 - 🌱 I am currently learning the Java language, but I have great knowledge.
 - 💞️ I am looking to collaborate in the design of my work with the technologies found here.
 - 📫 How to find me? simple! send an email to autanbr@gmail.com.
+- 👀 Look here at the home page created on github: https://vinicius-campelo.github.io/
 
 ---
 ## About me 
