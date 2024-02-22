@@ -7,7 +7,6 @@
 - 💞️ I am looking to collaborate in the design of my work with the technologies found here.
 - 📫 How to find me? simple! send an email to autanbr@gmail.com.
 - 👀 Look here at the home page created on github: https://vinicius-campelo.github.io/
-
 ---
 ## About me 
 ![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https://vinicius-campelo.github.io)
@@ -24,6 +23,7 @@
 ![282805-128](https://user-images.githubusercontent.com/74797865/112765899-bc0a3380-8fe5-11eb-8c9f-d47d02190571.png)
 ![532716-128](https://user-images.githubusercontent.com/74797865/112766178-f2947e00-8fe6-11eb-8e5a-1384059cdf7c.png)
 ![202809-128](https://user-images.githubusercontent.com/74797865/112766582-d691dc00-8fe8-11eb-991f-3afeef01ea89.png)
+![202809-128](https://github.com/vinicius-campelo/docs-tecnicos/blob/main/qrCode.png)
 
 
 
